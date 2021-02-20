@@ -105,7 +105,7 @@
 * [Cryptomator](https://cryptomator.org/)
 * [AEScrypt](https://www.aescrypt.com/)
 
-### Secure Encrypted File Sharing
+### Secure Encrypted File Sharing Services
 * [OnionShare](https://onionshare.org/)
 * [Lufi](https://upload.disroot.org/)
 * [WeTransfer](https://wetransfer.com/)
@@ -114,3 +114,23 @@
 * [Datash](https://datash.co/)
 * [TresoritSend](https://send.tresorit.com/)
 * [ToffeeShare](https://toffeeshare.com/)
+
+### Secure Cloud Storage Services
+* [PCloud](https://www.pcloud.com/) *"Free upto 10 GB"*
+* [Sync](https://www.sync.com/) *"5 GB Free"*
+* [Mega](https://mega.io/) *" Free upto 50 GB"*
+* [iDrive](https://www.idrive.com/) *"5 GB Free"*
+* [OneDrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage) *"5 GB Free"*
+* [GoogleDrive](https://www.google.com/drive/) *"15 GB Free"*
+* [DropBox](https://www.dropbox.com/) *"2 GB Free"*
+* [iCloud](https://www.icloud.com/) *"5 GB Free"*
+
+### Browsers for Privacy
+* [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+* [Brave](https://brave.com/)
+* [Waterfox](https://www.waterfox.net/)
+* [EpicBrowser](https://www.epicbrowser.com/)
+* [TorBrowser](https://www.torproject.org/download/)
+* [Iridium](https://iridiumbrowser.de/)
+* [UngoogledChromium](https://github.com/Eloston/ungoogled-chromium)
+* [Bromite](https://www.bromite.org/)

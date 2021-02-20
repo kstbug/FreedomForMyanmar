@@ -78,3 +78,14 @@
 * [Wire](https://wire.com/en/)
 * [Dust](https://usedust.com/)
 * [Status](https://status.im/)
+
+### Secure Private Email Service Providers
+* [Protonmail](https://protonmail.com/) *"Free/Paid"*
+* [Tutanota](https://tutanota.com/) *"Free/Paid"*
+* [PrivateMail](https://privatemail.com/) *"Free/Paid"*
+* [CounterMail](https://countermail.com/) *"Paid"*
+* [MailBox](https://mailbox.org/en/) *"Paid"*
+* [Posteo](https://posteo.de/en) *"Paid"*
+* [Disroot](https://disroot.org/en) *"Free/Paid"*
+* [StartMail](https://www.startmail.com/en/) *"Free/Paid"*
+* [TheXYZ](https://www.thexyz.com/) *"Paid"*

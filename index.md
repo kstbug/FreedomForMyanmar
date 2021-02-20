@@ -89,3 +89,28 @@
 * [Disroot](https://disroot.org/en) *"Free/Paid"*
 * [StartMail](https://www.startmail.com/en/) *"Free/Paid"*
 * [TheXYZ](https://www.thexyz.com/) *"Paid"*
+
+### File Encryption, Full Disk Encryption & Client Side Encryption Tools
+* [VeraCrypt](https://www.veracrypt.fr/en/Downloads.html)
+* [AxCrypt](https://axcrypt.net/)
+* [Kryptor](https://kryptor.co.uk/)
+* [NordLocker](https://nordlocker.com/)
+* [FolderLock](https://www.newsoftwares.net/folderlock/)
+* [BoxCryptor](https://www.boxcryptor.com/en/)
+* [CryptoForge](https://www.cryptoforge.com/)
+* [DiskCryptor](https://diskcryptor.org/)
+* [Kruptos2](https://www.kruptos2.co.uk/)
+* [LUKS](https://guardianproject.info/archive/luks/)
+* [Encrypto](https://macpaw.com/encrypto)
+* [Cryptomator](https://cryptomator.org/)
+* [AEScrypt](https://www.aescrypt.com/)
+
+### Secure Encrypted File Sharing
+* [OnionShare](https://onionshare.org/)
+* [Lufi](https://upload.disroot.org/)
+* [WeTransfer](https://wetransfer.com/)
+* [SendAnyWhere](https://send-anywhere.com/)
+* [KeyBase](https://keybase.io/)
+* [Datash](https://datash.co/)
+* [TresoritSend](https://send.tresorit.com/)
+* [ToffeeShare](https://toffeeshare.com/)

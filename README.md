@@ -1,4 +1,4 @@
-# FreedomForMM
+# FreedomForMyanmar
 Collection of Tools & Services for bypassing internet censorship and protecting privacy.
 
 Due to the current situations in Myanmar, the dictators are restricting the access to Facebook, Twitter, Whatsapp & few other websites to suppress our people true voices.

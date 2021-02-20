@@ -14,4 +14,4 @@ Be safe out there.
 #FreedomForMyanmar
 #FreedomOfExpressions
 
-[Github Pages](http://kstbug.github.io/FreedomForMM)
+[Github Pages](https://kstbug.github.io/FreedomForMM/index.html)

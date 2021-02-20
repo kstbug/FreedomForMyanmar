@@ -11,7 +11,7 @@ These are just my personal choices.
 
 Be safe out there.
 
-#FreedomForMyanmar
-#FreedomOfExpressions
+## FreedomForMyanmar
+## FreedomOfExpressions
 
 [Github Pages](https://kstbug.github.io/FreedomForMyanmar/index.html)

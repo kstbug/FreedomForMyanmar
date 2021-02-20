@@ -1,4 +1,4 @@
-## Bypassing Internet Censorship
+## Bypassing Internet Censorship & Protecting Privacy
 
 ### VPN Service Providers (Paid)
 * [Surfshark](https://surfshark.com/)
@@ -64,3 +64,17 @@
 * [4EverProxy](https://www.4everproxy.com/)
 * [MegaProxy](https://www.megaproxy.com/freesurf/)
 * [Zend2](https://zend2.com/)
+
+### Secure Encrypted Instant Messaging Services
+* [Signal](https://signal.org/en/) *"Most Recommended"*
+* [Telegram](https://telegram.org/)
+* [Element](https://element.io/)
+* [Briar](https://briarproject.org/)
+* [Jami](https://jami.net/)
+* [Threema](https://threema.ch/en)
+* [Silence](https://silence.im/)
+* [Wickr](https://wickr.com/)
+* [OTR/Jabber](https://otr.im/)
+* [Wire](https://wire.com/en/)
+* [Dust](https://usedust.com/)
+* [Status](https://status.im/)

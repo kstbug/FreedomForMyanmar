@@ -13,5 +13,6 @@ Be safe out there.
 
 ## FreedomForMyanmar
 ## FreedomOfExpressions
+## FreedomOfSpeech
 
 [Github Pages](https://kstbug.github.io/FreedomForMyanmar/index.html)

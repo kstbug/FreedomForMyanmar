@@ -12,7 +12,7 @@ These are just my personal choices.
 Be safe out there.
 
 ## FreedomForMyanmar
-## FreedomOfExpressions
+## FreedomOfExpression
 ## FreedomOfSpeech
 
 [Github Pages](https://kstbug.github.io/FreedomForMyanmar/index.html)

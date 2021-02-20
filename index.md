@@ -1,4 +1,4 @@
-## Bypssing Internet Censorship
+## Bypassing Internet Censorship
 
 ### VPN Service Providers (Paid)
 * [Surfshark](https://surfshark.com/)
